@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\bin\Debug\net6.0\20.Generic.exe
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\bin\Debug\net6.0\20.Generic.deps.json
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\bin\Debug\net6.0\20.Generic.runtimeconfig.json
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\bin\Debug\net6.0\20.Generic.dll
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\bin\Debug\net6.0\20.Generic.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.dll
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\refint\20.Generic.dll
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\20.Generic.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson16.Delegates\20.Generic\obj\Debug\net6.0\ref\20.Generic.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\bin\Debug\net6.0\05.Delegates.exe
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\bin\Debug\net6.0\05.Delegates.deps.json
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\bin\Debug\net6.0\05.Delegates.runtimeconfig.json
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\bin\Debug\net6.0\05.Delegates.dll
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\bin\Debug\net6.0\05.Delegates.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.dll
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\refint\05.Delegates.dll
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\05.Delegates.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson16.Delegates\05.Delegates\obj\Debug\net6.0\ref\05.Delegates.dll

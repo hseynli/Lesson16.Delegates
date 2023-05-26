@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\bin\Debug\net6.0\16.Func.exe
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\bin\Debug\net6.0\16.Func.deps.json
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\bin\Debug\net6.0\16.Func.runtimeconfig.json
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\bin\Debug\net6.0\16.Func.dll
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\bin\Debug\net6.0\16.Func.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.dll
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\refint\16.Func.dll
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\16.Func.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson16.Delegates\16.Func\obj\Debug\net6.0\ref\16.Func.dll

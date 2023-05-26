@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\bin\Debug\net6.0\17.Predicate.exe
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\bin\Debug\net6.0\17.Predicate.deps.json
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\bin\Debug\net6.0\17.Predicate.runtimeconfig.json
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\bin\Debug\net6.0\17.Predicate.dll
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\bin\Debug\net6.0\17.Predicate.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.dll
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\refint\17.Predicate.dll
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.pdb
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\17.Predicate.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson16.Delegates\17.Predicate\obj\Debug\net6.0\ref\17.Predicate.dll
